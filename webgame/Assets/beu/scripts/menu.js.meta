@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 05fd562787656884cb584dd545cac381
+timeCreated: 1430286387
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - obj_menu: {fileID: 100042, guid: 93ded19ebe29e284ca9306a3b4f33797, type: 2}
+  - obj_platFormer: {instanceID: 0}
+  - obj_car: {instanceID: 0}
+  - obj_FPS: {instanceID: 0}
+  - startMenu: {instanceID: 0}
+  - menuScrn: {instanceID: 0}
+  - carRaceTxt: {instanceID: 0}
+  - fpsBtnTxt: {instanceID: 0}
+  - platformerTxt: {instanceID: 0}
+  - fullScreen: {instanceID: 0}
+  - menuBG: {instanceID: 0}
+  - resumeBtn: {instanceID: 0}
+  - optionBtn: {instanceID: 0}
+  - quitBtn: {instanceID: 0}
+  - menuBtn: {instanceID: 0}
+  - pressedmenuBtn: {instanceID: 0}
+  - resumeTxt: {instanceID: 0}
+  - optionTxt: {instanceID: 0}
+  - quitTxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
